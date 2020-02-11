@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ceea40ce571db474f8d6e1710b395ee5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Verdana
+  fontNames:
+  - Verdana
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9b204f23f1c5ad441a0cf6c91ddf7401, type: 3}
+  - {fileID: 12800000, guid: 78c95873aea1e554d94abc07ccbe7e04, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

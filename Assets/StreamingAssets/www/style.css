@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  color: #e9fe00;
+  background-color: #212121;
+  font-family: coolvetica, sans-serif;
+
+  font-weight: 500;
+
+  font-style: normal;
+}
+
+hr {
+  width: 80%;
+  border: none;
+  border-top: 1rem dotted;
+  color: #161616;
+}
+
+/* Navigation Bar */
+#navigation-bar {
+  background-color: #161616;
+  text-align: center;
+}
+.logo {
+  width: 10rem;
+}
+
+p {
+  margin-top: 1rem;
+}
+
+.nav-bar-link {
+  margin: 3rem;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #e9fe00;
+}
+.nav-bar-link:hover {
+  text-decoration: none;
+  color: #810289;
+}
+
+/* News */
+#news {
+  text-align: center;
+  color: #f4f4f4;
+}
+h1 {
+  font-size: 5rem;
+  color: #e9fe00;
+  font-style: italic;
+}
+
+
+.icon-btn {
+  background-color: transparent;
+  color: #f4f4f4;
+  border: 0;
+  height: 2rem;
+  width: 2rem;
+}
+.icon-btn:hover {
+  color: #810289;
+}
+
+#news1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #f4f4f4;
+}
+
+#news2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #808080;
+}
+
+.AudioPanel {
+  padding: 10px;
+  margin: 1rem;
+  text-align: center;
+  width: 7rem;
+  height: 10rem;
+}
+
+#audios {
+  text-align: center;
+  color: #f4f4f4;
+}
+
+
+/* Make the image responsive */
+.img-button img {
+  width: 5rem;
+}
